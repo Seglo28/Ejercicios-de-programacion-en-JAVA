@@ -1,0 +1,12 @@
+
+package BcondicionalesYbucles;
+
+/**
+2. Leer un número e indicar si es positivo o negativo. El proceso se repetirá hasta que se introduzca un 0.
+ */
+public class Bdos {
+    
+    public static void main(String[] args) {
+        
+    }
+}
